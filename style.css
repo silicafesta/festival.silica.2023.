@@ -1,0 +1,37 @@
+
+/* 네비게이션 영역 */
+#nav{
+    background-image: url(image/background.png);
+    font-family: 'Gothic A1', sans-serif;
+}
+
+/* 헤더영역 */
+#page{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),
+                     rgb(0,0,0,.2)), url(detail/KakaoTalk_Photo_2023-06-14-13-13-37\ 008.jpeg);
+    background-size: cover; 
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+
+/* 라인업 영역 */
+.card-hover:hover {
+    background-color: #A5D3B7;
+}
+
+/* 공연소개영역 */
+#festival {
+    background-image: url(./images/color.png);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+/* 배너영역 */
+#banner{
+    background-color: gainsboro;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
